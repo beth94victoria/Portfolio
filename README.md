@@ -17,9 +17,15 @@ There are two types of people I am targeting, It has to be professional enough t
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
 ## Design documentation
+
+
 ### Design process
 ### Wireframes
-### Personal logo (optional)
+![page 1 wire frame](./img/p1wireframe.jpg)
+![page 2 wire frame](./img/p2wireframe.jpg)
+### Personal logo 
+![logo](./img/logo.png)
+
 ### Usability considerations
 
 ## Details of planning process
