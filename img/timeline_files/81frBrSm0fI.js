@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["fcZ9X"]); }
-
-__d("QuickPerformanceLoggerImpl",["EventProfiler","QuickLogConfig","QuickPerformanceLoggerBase"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g,h={},i={onMarkerStart:function(a,c,d){var e=b("QuickLogConfig").qpl_to_interaction[a];if(e){a=a+" : "+c;h[a]=b("EventProfiler").markManualStart([e.name],e.eventType,d)}},onMarkerEnd:function(a,b,c){a=a+" : "+b;h[a]&&h[a].markManualEnd(c)}};c=babelHelpers.inherits(a,b("QuickPerformanceLoggerBase"));g=c&&c.prototype;function a(){g.constructor.call(this,i)}e.exports=new a()}),null);

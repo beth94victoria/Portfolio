@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Limelight|Raleway');
 // mobile view
-@media only screen and (max-width:420px) {
+@media only screen and (max-width:767px) {
     body {
         padding: 0.5rem 0.5rem;
         background-color: #6767eb;
-        background: linear-gradient(#8a65ee, #0a2e4b);
+        background: linear-gradient( white, #8a65ee, #0a2e4b, black);
         position: relative;
         justify-content: space-around;
     }
@@ -22,7 +22,7 @@
     #top {
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-around;
+        position: relative; //  justify-content: space-around;
         padding: 2rem;
         #logo {
             width: 200px;
@@ -49,11 +49,11 @@
 }
 
 // desktop views
-@media only screen and (min-width:421px) {
+@media only screen and (min-width:768px) {
     body {
         padding: 2rem 2rem;
         background-color: #6767eb;
-        background: linear-gradient(#8a65ee, #0a2e4b);
+        background: linear-gradient( white, #8a65ee, #0a2e4b, black);
         position: relative;
     }
     img {
@@ -81,7 +81,7 @@
         width: 200px;
         height: 200px;
         transition: all 2s;
-        padding: 1.5rem; // justify-content: ;
+        padding: 1.5rem;
         &:hover {
             transform: rotate(270deg);
         }
@@ -94,50 +94,45 @@
     header {
         padding: 3px 3px;
         justify-content: center;
-        font-size: 1rem;
+        text-align: center;
+        font-size: 2rem;
+        display: block;
     }
 }
 
-.description {
-    position: relative;
-    left: 3rem;
-    bottom: 1rem;
+#skills,
+#work {
+    flex-direction: column;
+    display: flex;
 }
 
+// all sections styled the same
 #skills,
 #paragraphs,
 #work,
+header,
 #about,
 #interests,
 #gallery {
     background-color: #326ff1;
     font-family: 'Raleway', sans-serif;
     justify-content: center;
-    display: flex;
+    text-align: center;
+    display: flex; // justify-content: center;
+    // align-items: center;
     flex-wrap: wrap;
 }
 
+// links default 
 .link {
-    height: 25px;
-    width: 25px;
+    height: 75px;
+    width: 75px;
     padding: 20px 20px;
 }
 
-// header {
-//     color: #201e1e;
-//     font-style: 2em sans-serif;
-//     align-items: center;
-//     padding: 2rem 1rem;
-// } // #gallery {
-//     background-color: #201e1e;
-//     color: #c0bcbc;
-//     font-weight: bold;
-//     display: flex;
-//     flex-wrap: wrap;
-// }
 section {
     padding: 1rem 1rem;
-    align-items: inherit;
+    display: inline-block;
 }
 
 #flex-container {
