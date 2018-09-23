@@ -11,7 +11,9 @@
 ### Functionality / features
 ### Sitemap
 ### Screenshots
+
 ### Target audience
+There are two types of people I am targeting, It has to be professional enough to attract the attention of potential employers yet easy to read and navigate so that friends and family can also get enjoyment out of it.
 ### Tech stack (e.g. html, css, deployment platform, etc)
 
 ## Design documentation
