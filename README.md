@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Portfolio
-
+https://beth94victoria.github.io/
 
 ##  GitHub repo
 https://github.com/beth94victoria/Portfolio/blob/master/README.md
@@ -13,6 +13,8 @@ The purpose of this portfolio is to entertain the viewer with a simple design an
 ### Functionality / features
 It has a navigation tab at the top of the webpage that takes you to various sections on the page. At the bottom of the page there is links to my Github and linkedin that will take you to a new tab. 
 ### Sitemap
+from the navigation bar at the top of the page you can get to all the sections on the one page. 
+
 ### Screenshots
 
 ### Target audience
@@ -60,4 +62,4 @@ The domain name system (DNS) was established in 1984 and network adresses were i
 A web server is a program that uses HTTP (Hypertext Transfer Protocol) to process and send web pages to a user in response to a user request. Domains are the network adresses that share a common suffix such as .com or .edu marking them for the users recognition. Web browsers are the software organisations used to access the world wide web, Internet explorer and google chrome are these such browers. The thing connecting all of these aspects is a user; we jump on a browser, type in a domain name such as facebook.com a web server finds this and we recieve it on our computer. 
 
 3.  Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
-
+most of the technologies used today have a positive impact on the world today, my favourite web application is IMDB, as a lover of movies and trivia it comes in handy when I absolutely need to know when Hugh Jackman was born, or when Titanic was released. It
