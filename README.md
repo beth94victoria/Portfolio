@@ -13,9 +13,14 @@ The purpose of this portfolio is to entertain the viewer with a simple design an
 ### Functionality / features
 It has a navigation tab at the top of the webpage that takes you to various sections on the page. At the bottom of the page there is links to my Github and linkedin that will take you to a new tab. 
 ### Sitemap
+
 from the navigation bar at the top of the page you can get to all the sections on the one page. 
 
 ### Screenshots
+![default flex](./img/default-flex.png)
+![default settings](./img/default-settings.png)
+![desktop view css](./desktop-view.png)
+![mobile view css](./img/mobile-view.png)
 
 ### Target audience
 There are two types of people I am targeting, It has to be professional enough to attract the attention of potential employers yet easy to read and navigate so that friends and family can also get enjoyment out of it.
@@ -26,8 +31,12 @@ Scss
 ## Design documentation
 
 ![mood board](./img/mood-board.png)
-### Design process
 
+### Design process
+First with the background blending colours with out being to much. 
+Have a flexible layout that evolves to different screen sizes.
+Make a cute navigation bar.
+Make most features centered. 
 
 ### Wireframes
 ![page 1 wire frame](./img/p1wireframe.jpg)
@@ -42,6 +51,13 @@ Although none right now there will be two considerations added in the future:
     2. Screen reader that not only read the text but describe the paintings.
 
 ## Details of planning process
+create a skeleton of headings that i wanted in the portfolio
+add minimal css
+plan the layout 
+add the information
+then came the photos.
+add css and layout of photos. 
+pretty everything up. 
 
 
 ### Project plan & timeline
@@ -62,4 +78,5 @@ The domain name system (DNS) was established in 1984 and network adresses were i
 A web server is a program that uses HTTP (Hypertext Transfer Protocol) to process and send web pages to a user in response to a user request. Domains are the network adresses that share a common suffix such as .com or .edu marking them for the users recognition. Web browsers are the software organisations used to access the world wide web, Internet explorer and google chrome are these such browers. The thing connecting all of these aspects is a user; we jump on a browser, type in a domain name such as facebook.com a web server finds this and we recieve it on our computer. 
 
 3.  Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
-most of the technologies used today have a positive impact on the world today, my favourite web application is IMDB, as a lover of movies and trivia it comes in handy when I absolutely need to know when Hugh Jackman was born, or when Titanic was released. It
+
+contributions such as the accessability of the internet, it's now in your pocket, you can find an answer to a question in no time at all, are what makes living today a lot less complicated. To be entertained even on your comute to work or when your sister steals the tv remote, it's all good because you have the app on your phone.  
