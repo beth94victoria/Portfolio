@@ -121,7 +121,8 @@
 }
 
 #skills,
-#work {
+#work,
+#contact {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
